@@ -39,8 +39,16 @@ Oyun ve Uygulama Akademisi Bootcamp 2024 :shipit:
 *  **Sprint içinde tamamlanması tahmin edilen puan: 100 Puan**
 *  **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verilmiştir.
 *  **Daily Scrum:** Daily Scrum toplantıları WhatsApp ve Discord üzerinden yapılmıştır. Projenin ana hatları belirlendikten sonra tasarım ve ana grup olarak iki adet grup oluşturulmuştur. Gruplar birbiri içerisinde yardım halinde olacaktır.
-* Discord ve WhatsApp ScreenShotları
+* **Tamamlanan Sprint Puanı : 105**
 
+  **Discord ve WhatsApp ScreenShotları**
+    ![WhatsApp](https://github.com/Dyunmez/ouagrup86/assets/174036135/392548ab-edbc-4d3e-b08f-372174b7b3ad)
+    ![WhatsApp-Trello](https://github.com/Dyunmez/ouagrup86/assets/174036135/f2a6567b-7748-460f-ad15-ea0c6977d5e3)
+    
+  **Sprint Board Updates**
+
+    ![Trello](https://github.com/Dyunmez/ouagrup86/assets/174036135/6cb4b32d-410c-4a6d-a4d6-36db2a7d1996)
+    ![Trello](https://github.com/Dyunmez/ouagrup86/assets/174036135/2c0368c6-da1e-4e00-bd40-f6886f121e61)
 
 
 * _**Sprint Review**_
