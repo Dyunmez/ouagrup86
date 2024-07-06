@@ -33,6 +33,7 @@ Oyun ve Uygulama Akademisi Bootcamp 2024 :shipit:
   * Tv izleyicileri
 
 ## Product Backlog URL
+ [Product Backlog Link](https://trello.com/invite/b/TMGiNHzT/ATTI04153ebef0791f5d85a6fd494d077cb35229E51D/1-sprint)
 
 # Sprint 1 
 *  **Sprint içinde tamamlanması tahmin edilen puan: 100 Puan**
