@@ -6,10 +6,10 @@ Oyun ve Uygulama Akademisi Bootcamp 2024 :shipit:
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
- * Nazmi Aras (Team Member/Developer) - Aktif
- * Selin Sıtkı (Product Owner) - Aktif
- * Sude Nur Öztürk (Team Member/Designer) - Aktif
- * Havva Dönmez (Scrum Master) - Aktif
+ * Nazmi Aras _(Team Member/Developer)_ - Aktif
+ * Selin Sıtkı _(Product Owner)_ - Aktif
+ * Sude Nur Öztürk _(Team Member/Designer)_ - Aktif
+ * Havva Dönmez _(Scrum Master)_ - Aktif
  * Nuray Kahya - Pasif 
 
 ## Ürün İsmi
