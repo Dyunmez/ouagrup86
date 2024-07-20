@@ -64,3 +64,38 @@ Oyun ve Uygulama Akademisi Bootcamp 2024 :shipit:
   * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 
+# Sprint 2
+*  **Sprint içinde tamamlanması tahmin edilen puan: 90 Puan**
+*  **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 90 olması gerektiğine karar verilmiştir.
+*  **Daily Scrum:** Daily Scrum toplantıları WhatsApp ve Discord üzerinden yapılmıştır. Kullanıcı deneyimi ve kullanıcı arayüzüne odaklanılmıştır. Belirtildiği gibi iki gruba ayrılmış ve bir grup kodlamaya başlamıştır.
+* **Tamamlanan Sprint Puanı : 80**
+* Grup üyelerinin yoğun olması sebebiyle istenilen puana ulaşılamamıştır.
+
+** WhatsApp ScreenShotları**
+
+** Figma (Ürün) ScreenShotları**
+
+
+ **Sprint Board Updates**
+
+
+* _**Sprint Review**_
+  * İkinci sprintte yaşanılan en büyük zorluk üyelerin yoğunluğu nedeniyle toplantı yapmaktı.
+  * Uygulama için UX yapıldı ve UI tasarlandı. UI üzerinde değişiklik yapılabileceği konuşuldu.Yapılan çalışmalar ScreenShotlarda yer almaktadır.
+  * Sprint 2'nin sonunda grup üyeleri ile toplanılmış ve Sprint gözden geçirilmiştir. İstenilen çoğu amaca ulaşılmıştır. Ulaşılamayanlar için plan yapılmıştır.
+  * Olası logo tasarlanmıştır.
+
+* _**Sprint Review Katılımcıları:**_ Nazmi Aras, Sude Nur Öztürk, Havva Dönmez, Selin Sıtkı
+
+* _**Sprint Retrospective**_ 
+  * Gelecek sprintte kodlamaya yoğunlaşılacaktır.
+  * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  * Uygulamanın renginin değişebilme olasılığı konuşulacaktır.
+  * Toplantı sayıları arttırılacaktır.
+  * Kodlamaya göre UI kısmında değişiklikler yapılabileceği konuşulmuştur.
+
+
+
+
+
+
