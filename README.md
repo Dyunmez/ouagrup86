@@ -69,11 +69,11 @@ Oyun ve Uygulama Akademisi Bootcamp 2024 :shipit:
 *  **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 90 olması gerektiğine karar verilmiştir.
 *  **Daily Scrum:** Daily Scrum toplantıları WhatsApp ve Discord üzerinden yapılmıştır. Kullanıcı deneyimi ve kullanıcı arayüzüne odaklanılmıştır. Belirtildiği gibi iki gruba ayrılmış ve bir grup kodlamaya başlamıştır.
 * **Tamamlanan Sprint Puanı : 80**
-* Grup üyelerinin yoğun olması sebebiyle istenilen puana ulaşılamamıştır.
+  * Grup üyelerinin yoğun olması sebebiyle istenilen puana ulaşılamamıştır.
 
-** WhatsApp ScreenShotları**
+**WhatsApp ScreenShotları**
 
-** Figma (Ürün) ScreenShotları**
+**Figma (Ürün) ScreenShotları**
 
 
  **Sprint Board Updates**
