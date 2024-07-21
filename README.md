@@ -73,10 +73,32 @@ Oyun ve Uygulama Akademisi Bootcamp 2024 :shipit:
 
 **WhatsApp ScreenShotları**
 
+
+
+
+![WhatsApp](https://github.com/user-attachments/assets/4dba1481-4286-4c62-8ec6-71444acabd96)
+![WhatsApp](https://github.com/user-attachments/assets/e5b8de4f-720a-495f-b67d-209a5d3d2e33)
+
+
+
 **Figma (Ürün) ScreenShotları**
 
 
+
+
+![figma1](https://github.com/user-attachments/assets/87e90eee-79b0-43e9-8520-1ccb89bc801d)
+![figma2](https://github.com/user-attachments/assets/fca4acfa-6697-4514-a32c-6bbeeff61260)
+![figma3](https://github.com/user-attachments/assets/1028ae90-2fbd-4b2c-b479-f730951f4039)
+
+
+
  **Sprint Board Updates**
+
+
+
+
+
+![2  Sprint Trello](https://github.com/user-attachments/assets/b5b6c0c6-368c-4369-83f4-205b15d1a1d5)
 
 
 * _**Sprint Review**_
