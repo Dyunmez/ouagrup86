@@ -82,7 +82,7 @@ class TvSeriesScreen extends StatelessWidget {
               Container(
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(2),
-                      color: Color.fromRGBO(4, 2, 15, 1)),
+                      color: Color.fromRGBO(4, 3, 15, 1)),
                   height: 75,
                   width: 400,
                   child: Row(

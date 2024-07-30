@@ -86,7 +86,7 @@ class DetailScreen extends StatelessWidget {
                   ),
                 ],
               ),
-              Divider(
+              const Divider(
                 color: Colors.white,
               ),
               const Text(

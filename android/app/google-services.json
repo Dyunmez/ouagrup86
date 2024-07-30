@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674858142771",
+    "project_id": "ouagrup86",
+    "storage_bucket": "ouagrup86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674858142771:android:c71a8e1e9c14bd92c7e746",
+        "android_client_info": {
+          "package_name": "com.example.oua_bootcamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASy8uFgkea1Iq0v0XbSnp_DhJ12r5mX9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
