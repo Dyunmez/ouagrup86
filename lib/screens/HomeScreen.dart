@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:oua_bootcamp/screens/EpisodeScreen.dart';
+import 'package:oua_bootcamp/screens/TvSeriesScreen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -18,7 +19,9 @@ class _HomeScreenState extends State<HomeScreen> {
       if (user == null) {
         print('User is currently signed out!');
       } else {
-        print('User is signed in!');
+        Navigator.of(context).push(
+          MaterialPageRoute(builder: (context) => const TvSeriesScreen()),
+        );
       }
     });
     //kayitOl();
@@ -31,7 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
         password: sifre,
       );
       Navigator.of(context).push(
-        MaterialPageRoute(builder: (context) => const EpisodeScreen()),
+        MaterialPageRoute(builder: (context) => const TvSeriesScreen()),
       );
     } on FirebaseAuthException catch (e) {
       if (e.code == 'user-not-found') {
@@ -60,7 +63,7 @@ class _HomeScreenState extends State<HomeScreen> {
         email: eposta,
         password: sifre,
       );
-      MaterialPageRoute(builder: (context) => const EpisodeScreen());
+      MaterialPageRoute(builder: (context) => const TvSeriesScreen());
     } on FirebaseAuthException catch (e) {
       print(e);
       ScaffoldMessenger.of(context).showSnackBar(
@@ -99,6 +102,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     width: 350,
                     child: TextField(
                       onChanged: (value) => eposta = value,
+                      style: TextStyle(color: Colors.white),
                       decoration: const InputDecoration(
                         hintText: "Email",
                         hintStyle: TextStyle(
@@ -124,7 +128,9 @@ class _HomeScreenState extends State<HomeScreen> {
                     height: 50,
                     width: 350,
                     child: TextField(
+                      style: TextStyle(color: Colors.white),
                       onChanged: (value) => sifre = value,
+                      obscureText: true,
                       decoration: const InputDecoration(
                         hintText: "Password",
                         hintStyle: TextStyle(
