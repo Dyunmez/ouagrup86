@@ -11,6 +11,10 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+
+  TextEditingController _emailController = new TextEditingController();
+  TextEditingController _passwordController = new TextEditingController();
+
   @override
   void initState() {
     // TODO: implement initState
@@ -26,8 +30,10 @@ class _HomeScreenState extends State<HomeScreen> {
     });
     //kayitOl();
   }
-
+  String eposta = "";
+  String sifre = "";
   void girisYap(eposta, sifre) async {
+    print("eposta ${eposta} sifre ${sifre}");
     try {
       await FirebaseAuth.instance.signInWithEmailAndPassword(
         email: eposta,
@@ -76,9 +82,9 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    String eposta = "";
-    String sifre = "";
+
     return Scaffold(
+        resizeToAvoidBottomInset: false,
       backgroundColor: Color.fromRGBO(4, 2, 30, 1),
       body: Container(
         width: MediaQuery.of(context).size.width,
@@ -86,7 +92,7 @@ class _HomeScreenState extends State<HomeScreen> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             SizedBox(
-              height: 109,
+              height: 10,
             ),
             Image.asset("assets/images/logo.png"),
             SizedBox(
@@ -101,6 +107,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     height: 50,
                     width: 350,
                     child: TextField(
+                      controller: _emailController,
                       onChanged: (value) => eposta = value,
                       style: TextStyle(color: Colors.white),
                       decoration: const InputDecoration(
@@ -128,6 +135,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     height: 50,
                     width: 350,
                     child: TextField(
+                      controller: _passwordController,
                       style: TextStyle(color: Colors.white),
                       onChanged: (value) => sifre = value,
                       obscureText: true,

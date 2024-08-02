@@ -52,14 +52,28 @@ class _DetailScreenState extends State<DetailScreen> {
                           child: Container(
                             width: 300,
                             child: Row(
-                              mainAxisAlignment: MainAxisAlignment.center,
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
+                                GestureDetector(
+                                  onTap: () {
+                                    Navigator.pop(context);
+                                  },
+                                  child: Icon(
+                                    Icons.arrow_back,
+                                    color: Colors.white,
+                                    size: 50,
+                                  ),
+                                ),
                                 Text(
                                   film.title!,
                                   style: TextStyle(
                                       color: Colors.orange,
                                       fontWeight: FontWeight.bold),
-                                ) /* 
+                                ),
+                                SizedBox(
+                                  width: 50,
+                                )
+                                /* 
 ,
                                 Icon(
                                   Icons.favorite,

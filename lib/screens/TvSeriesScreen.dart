@@ -16,7 +16,7 @@ class TvSeriesScreen extends StatefulWidget {
 class _TvSeriesScreenState extends State<TvSeriesScreen> {
   Future<ApiModel> fetchAlbum() async {
     final response = await http
-        .get(Uri.parse('https://www.omdbapi.com/?s=harry&apikey=a43e50a0'));
+        .get(Uri.parse('https://www.omdbapi.com/?s=recep&apikey=a43e50a0'));
 
     if (response.statusCode == 200) {
       // If the server did return a 200 OK response,
@@ -130,7 +130,7 @@ class _TvSeriesScreenState extends State<TvSeriesScreen> {
               ),
               SizedBox(
                 width: MediaQuery.of(context).size.width - 66,
-                height: 600,
+                height: MediaQuery.of(context).size.height - 200,
                 child: FutureBuilder<ApiModel>(
                   future: fetchAlbum(),
                   builder: (context, snapshot) {
@@ -173,6 +173,7 @@ class _TvSeriesScreenState extends State<TvSeriesScreen> {
                                           children: [
                                             Text(
                                               icerik.title ?? "",
+                                              overflow: TextOverflow.ellipsis,
                                               style: TextStyle(
                                                   color: Colors.white),
                                             ),
