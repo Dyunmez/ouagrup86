@@ -15,6 +15,7 @@ Oyun ve Uygulama Akademisi Bootcamp 2024 :shipit:
 ## Ürün İsmi
    **Dizi-Film Takip Uygulaması**
  * _Seyir Defteri, Sinefiller, Te-Revision gibi isimler düşünülmüş henüz karara varılmamıştır.(1.Sprint)_
+ * _Te-Revision'da karar kılınmıştır.(3.Sprint)_
 
 ## Ürün Açıklaması 
   * Uygulamamız, kullanıcılarımızın izlediği veya izleyeceği dizileri yakından takip edebileceği bir platformdur. Birçok film ve dizi içeren bu uygulama, kullanıcılara tam bir rehberlik yapar. İçersinde, platformlarda izlemeye karar verdiğiniz dizideki oyuncuların kimler olduğunu görebilir, kaç sezon olduğunu öğrenebilir ve hangi bölümde kaldığınız bilgisini girip takibini yapabilirsiniz.
@@ -116,8 +117,52 @@ Oyun ve Uygulama Akademisi Bootcamp 2024 :shipit:
   * Toplantı sayıları arttırılacaktır.
   * Kodlamaya göre UI kısmında değişiklikler yapılabileceği konuşulmuştur.
 
+# Sprint 3
+*  **Sprint içinde tamamlanması tahmin edilen puan: 165 Puan**
+*  **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 165 olması gerektiğine karar verilmiştir.
+*  **Daily Scrum:** Daily Scrum toplantıları WhatsApp üzerinden yapılmıştır. Kod yazmaya odaklanılmıştır.
+* **Tamamlanan Sprint Puanı : 130 Puan**
+ * İstenilen puana ulaşılamamıştır ve uygulamanın içeriği daraltılmıştır.
+
+**WhatsApp ScreenShotları**
+
+![WhatsApp Image 2024-08-02 at 18 33 48](https://github.com/user-attachments/assets/9f6b470e-9bf0-4610-9091-344512b1c269)
+![WhatsApp Image 2024-08-02 at 18 33 49 (1)](https://github.com/user-attachments/assets/457db19e-fcbd-4163-9090-1b47269f2f4e)
+![WhatsApp Image 2024-08-02 at 18 33 49](https://github.com/user-attachments/assets/a8352c98-ecd2-4825-9377-ddde574fc4fd)
+![WhatsApp Image 2024-08-02 at 18 33 50](https://github.com/user-attachments/assets/5ae788b1-7ea4-4436-8543-ec96eb2ee832)
+
+**Figma (Ürün) Düzenleme ScreenShotları**
+
+![Figma 3 Sprint](https://github.com/user-attachments/assets/b233fddc-1db9-48e8-b77a-610ac0a096e1)
+
+
+**Ürün ScreenShotları**
+
+![WhatsApp Image 2024-08-02 at 18 33 51 (1)](https://github.com/user-attachments/assets/f5e26317-5314-43b2-8cb0-99fc1619248a)
+
+![WhatsApp Image 2024-08-02 at 18 33 51](https://github.com/user-attachments/assets/1206ae76-6dc5-4443-a643-acf292991a6a)
+
+![WhatsApp Image 2024-08-02 at 18 33 52](https://github.com/user-attachments/assets/ca944441-9595-4afa-bfe9-c422f773dbd7)
+
+![WhatsApp Image 2024-08-02 at 18 33 52 (1)](https://github.com/user-attachments/assets/a200f9a5-e96e-4fbf-8780-a74d6137aa19)
+
+![WhatsApp Image 2024-08-02 at 18 33 50 (1)](https://github.com/user-attachments/assets/78a4d378-883f-4145-a69f-185e0f4f8778)
 
 
 
+ **Sprint Board Updates**
+
+![3 Sprint Sonuncu](https://github.com/user-attachments/assets/78643f23-c3ce-40f0-8f38-d38281c2e179)
 
 
+
+* _**Sprint Review**_
+  * Kodlamaya odaklanılmıştır.
+  * Figma'da düzenleme yapılmıştır.
+
+* _**Sprint Review Katılımcıları:**_ Nazmi Aras, Sude Nur Öztürk, Havva Dönmez, Selin Sıtkı
+
+* _**Sprint Retrospective**_ 
+    * Tamamlanması gereken 165 puandan 130'u tamamlanmıştır.
+    * Başta belirlenen tüm hedeflere ulaşılmamış ancak ortaya bir ürün çıkarılmıştır.
+    * Toplamda 3 ekran oluşturulmuştur.
